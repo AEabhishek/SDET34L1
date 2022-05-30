@@ -50,8 +50,8 @@ public class BaseClass {
 
 
 	}
-
-	@Parameters("browser")
+ //this is my commit
+	//@Parameters("browser")
 	@BeforeClass(groups = "baseClass")
 	public void BeforeClass() throws IOException
 	{
